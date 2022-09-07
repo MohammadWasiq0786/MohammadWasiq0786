@@ -31,10 +31,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadWasiq0786" alt="About-Mohammad-Wasiq" /> </p>
 
+-----------
 
 <h2 align="center">Languages and Tools :</h2>
-
------------
 
 ### Programmong 
 
