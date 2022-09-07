@@ -78,7 +78,6 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/md.svg">](https://moderndive.com/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/infer.svg">](https://infer.netlify.app/) 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/rstanarm.svg">](https://cran.r-project.org/package=rstanarm) 
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/mlr.svg">](https://cran.r-project.org/package=mlr) 
 
 -----------
 
