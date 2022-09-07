@@ -20,7 +20,7 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/twitter.svg">](https://twitter.com/Mohammadwasiq0)  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/instagram.svg">](https://www.instagram.com/mohammadwasiq0786/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/facebook.svg">](https://www.facebook.com/mohammad.wasiq.79)
-
+---
 
 [<img src="https://img.shields.io/github/followers/MohammadWasiq0786?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
 
@@ -28,6 +28,7 @@
 
 
 <h2 align="center">Languages and Tools :</h2>
+---
 
 ### Programmong 
 
@@ -58,6 +59,7 @@
 </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
+ --------
 
  <h2 align="center">Boards :</h2>
 
