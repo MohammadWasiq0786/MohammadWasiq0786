@@ -15,6 +15,7 @@
 ### Connect me :
 
 <p>
+ 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mailto:mohammadwasiq0786@gmail.com)
 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mailto:gl0427@myamu.ac.in)
@@ -64,14 +65,15 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/tableau.svg">](https://www.tableau.com/)
 <p>
 
-* **MS-Office :**
+### **MS-Office :**
  
 <p>
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/microsoft-office-2013.svg">](https://www.office.com/)
 <p>
 
- * **Others :**
+ ### Others 
+ 
 <p>
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/r-logo-svg-4.svg">](https://cran.r-project.org/bin/windows/base/)
