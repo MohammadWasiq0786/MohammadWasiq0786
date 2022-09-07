@@ -13,8 +13,6 @@
 
 
 ### Connect me :
-
-<p>
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mailto:mohammadwasiq0786@gmail.com)
 
@@ -29,7 +27,7 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/instagram.svg">](https://www.instagram.com/mohammadwasiq0786/)
 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/facebook.svg">](https://www.facebook.com/mohammad.wasiq.79)
-<p>
+
 
 [<img src="https://img.shields.io/github/followers/MohammadWasiq0786?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
 
@@ -40,41 +38,27 @@
 
 ### Programmong 
 
-<p align="left">
- 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/rstudio-seeklogo.com.svg">](https://www.rstudio.com/)
-<p>
 
 ### Data Base
 
-<p>
- 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/mongodb.svg">](https://www.mongodb.com/atlas/database)
- <p>
 
 ### Data Visualization 
-
-<p>
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/powerbi.svg">](https://powerbi.microsoft.com/en/)
 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/tableau.svg">](https://www.tableau.com/)
-<p>
 
-### **MS-Office :**
- 
-<p>
- 
+### MS-Office 
+
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/microsoft-office-2013.svg">](https://www.office.com/)
-<p>
 
  ### Others 
- 
-<p>
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/r-logo-svg-4.svg">](https://cran.r-project.org/bin/windows/base/)
 
@@ -89,7 +73,7 @@
 </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
+
 
 <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="About-Mohammad-Wasiq" /></p>
 
