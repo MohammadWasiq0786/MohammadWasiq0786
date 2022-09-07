@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools :</h3>
 
-* **Programmong :**
+### Programmong 
 
 <p align="left">
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -38,35 +38,42 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/rstudio-seeklogo.com.svg">](https://www.rstudio.com/)
 <p>
 
-* **Data Base :**
+### Data Base
 
 <p align="left">
+ 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
  [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/mongodb.svg">](https://www.mongodb.com/atlas/database)
  <p>
 
-* **Data Visualization :**
+### Data Visualization 
 
 <p align="left">
- [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/powerbi.svg">](https://powerbi.microsoft.com/en/)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/powerbi.svg">](https://powerbi.microsoft.com/en/)
+
  [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/tableau.svg">](https://www.tableau.com/)
 <p>
 
 * **MS-Office :**
 <p align="left">
- [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/microsoft-office-2013.svg">](https://www.office.com/)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/microsoft-office-2013.svg">](https://www.office.com/)
 <p>
 
  * **Others :**
 <p align="left">
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/r-logo-svg-4.svg">](https://cran.r-project.org/bin/windows/base/)
+
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/visualstudio_code.svg">](https://code.visualstudio.com/download)
+
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/datascience.svg">]
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+
 </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+
 </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
