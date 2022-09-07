@@ -37,7 +37,7 @@
 
 <h2 align="center">Languages and Tools :</h2>
 
-## Programmong 
+## Programming 
 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/rstudio-seeklogo.com.svg">](https://www.rstudio.com/)
