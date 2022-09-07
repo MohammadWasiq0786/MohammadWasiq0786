@@ -52,7 +52,7 @@
 <p align="left">
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/powerbi.svg">](https://powerbi.microsoft.com/en/)
 
- [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/tableau.svg">](https://www.tableau.com/)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/tableau.svg">](https://www.tableau.com/)
 <p>
 
 * **MS-Office :**
