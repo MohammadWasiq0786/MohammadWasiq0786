@@ -35,26 +35,26 @@
 
 <h2 align="center">Languages and Tools :</h2>
 
-### Programmong 
+## Programmong 
 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/rstudio-seeklogo.com.svg">](https://www.rstudio.com/)
 
-### Data Base
+## Data Base
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/mongodb.svg">](https://www.mongodb.com/atlas/database)
 
-### Data Visualization 
+## Data Visualization 
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/powerbi.svg">](https://powerbi.microsoft.com/en/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/tableau.svg">](https://www.tableau.com/)
 
-### MS-Office 
+## MS-Office 
 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/microsoft-office-2013.svg">](https://www.office.com/)
 
- ### Others 
+ ## Others 
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/r-logo-svg-4.svg">](https://cran.r-project.org/bin/windows/base/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/visualstudio_code.svg">](https://code.visualstudio.com/download)
@@ -66,7 +66,7 @@
 
 -----------
 
- <h2 align="center">Boards :</h2>
+<h2 align="center">Boards :</h2>
 
 <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="About-Mohammad-Wasiq" /></p>
 
