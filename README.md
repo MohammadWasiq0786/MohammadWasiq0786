@@ -69,9 +69,6 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/plotly2.svg">">](https://plotly.com/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/matplotlib2.svg">](https://matplotlib.org/)
 
-<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/ggplot22.svg" alt="ggplot2" style="vertical-align:top; margin:4px">
-
-
 -----------
 
 <h2 align="center">Boards :</h2>
