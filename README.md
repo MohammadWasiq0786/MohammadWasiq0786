@@ -15,7 +15,7 @@
 
 -----------
 
-<h2 align="center">Connect me :</h2>
+## Connect me :
  
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mailto:mohammadwasiq0786@gmail.com)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mailto:gl0427@myamu.ac.in)
@@ -68,7 +68,7 @@
 
 -----------
 
-<h2 align="center">Boards :</h2>
+## Boards :
 
 <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="About-Mohammad-Wasiq" /></p>
 
