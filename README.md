@@ -58,7 +58,7 @@
 
  ## Others 
 
- <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/datascience.svg">
+<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/datascience.svg">
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/visualstudio_code.svg">](https://code.visualstudio.com/download)
 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
