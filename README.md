@@ -68,7 +68,7 @@
 
 -----------
 
-## Boards :
+<h2 align="center">Boards :</h2>
 
 <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="About-Mohammad-Wasiq" /></p>
 
