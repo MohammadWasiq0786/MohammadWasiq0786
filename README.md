@@ -32,9 +32,7 @@
 [<img src="https://img.shields.io/github/followers/MohammadWasiq0786?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadWasiq0786" alt="About-Mohammad-Wasiq" /> </p>
-
 ![personal website](https://img.shields.io/website-up-down-green-red/https/suryapusapati.com.svg)
-
 -----------
 
 <h2 align="center">Languages and Tools :</h2>
@@ -91,8 +89,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadWasiq0786&" alt="About-Mohammad-Wasiq" /></p>
 
------------
-
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MohammadWasiq0786&theme=juicyfresh" /></p>
 
-
+ -----------
