@@ -93,5 +93,6 @@
 
 -----------
 
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MohammadWasiq0786&theme=juicyfresh" /></p>
 
-https://github-profile-trophy.vercel.app/?username=MohammadWasiq0786&theme=juicyfresh
+
