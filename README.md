@@ -94,3 +94,20 @@
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MohammadWasiq0786&theme=juicyfresh" /></p>
 
  -----------
+
+
+</p>
+<p align="center">
+  <a href="https://github.com/MohammadWasiq0786/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/MohammadWasiq0786/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/MohammadWasiq0786/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/MohammadWasiq0786/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+  </a>
+</p>
