@@ -93,6 +93,5 @@
 
 -----------
 
-<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=user=MohammadWasiq0786" alt="About-Mohammad-Wasiq" width="1000" height="250"/>
-</div>
