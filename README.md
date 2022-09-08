@@ -90,3 +90,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadWasiq0786&" alt="About-Mohammad-Wasiq" /></p>
 
 -----------
+
+![personal website](https://img.shields.io/website-up-down-green-red/https/suryapusapati.com.svg)
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryapusapati&show_icons=true&locale=en&layout=compact" alt="suryapusapati" width="500" height="200"/>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryapusapati&" alt="suryapusapati" width="400" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=suryapusapati&show_icons=true&locale=en" alt="suryapusapati" width="400" height="200"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=suryapusapati" alt="suryapusapati" width="1000" height="250"/>
+    
+</div>
