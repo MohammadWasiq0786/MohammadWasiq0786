@@ -33,6 +33,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadWasiq0786" alt="About-Mohammad-Wasiq" /> </p>
 
+![personal website](https://img.shields.io/website-up-down-green-red/https/suryapusapati.com.svg)
+
 -----------
 
 <h2 align="center">Languages and Tools :</h2>
@@ -91,8 +93,6 @@
 
 -----------
 
-![personal website](https://img.shields.io/website-up-down-green-red/https/suryapusapati.com.svg)
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=user=MohammadWasiq0786" alt="MohammadWasiq0786" width="1000" height="250"/>
-    
+ <img src="https://github-profile-trophy.vercel.app/?username=user=MohammadWasiq0786" alt="About-Mohammad-Wasiq" width="1000" height="250"/>
 </div>
