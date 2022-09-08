@@ -93,6 +93,6 @@
 
 ![personal website](https://img.shields.io/website-up-down-green-red/https/suryapusapati.com.svg)
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=suryapusapati" alt="suryapusapati" width="1000" height="250"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=user=MohammadWasiq0786" alt="MohammadWasiq0786" width="1000" height="250"/>
     
 </div>
