@@ -35,9 +35,6 @@
 
 ![personal website](https://img.shields.io/website-up-down-green-red/https/suryapusapati.com.svg)
 
-<a href="https://github.com/MohammadWasiq0786/github-profile-trophy/stargazers"><img src="https://img.shields.io/github/stars/MohammadWasiq0786/github-profile-trophy"/> 
-</a><a href="https://github.com/MohammadWasiq0786/github-profile-trophy/LICENSE"><img src="https://img.shields.io/github/license/MohammadWasiq0786/github-profile-trophy"/></a>
-
 -----------
 
 <h2 align="center">Languages and Tools :</h2>
