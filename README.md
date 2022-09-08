@@ -98,16 +98,8 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/MohammadWasiq0786/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/MohammadWasiq0786/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/MohammadWasiq0786/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/MohammadWasiq0786/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/MohammadWasiq0786/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/MohammadWasiq0786/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/MohammadWasiq0786/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/MohammadWasiq0786/github-profile-trophy"/> 
-  </a>
+<a href="https://github.com/MohammadWasiq0786/github-profile-trophy/issues"><img src="https://img.shields.io/github/issues/MohammadWasiq0786/github-profile-trophy"/></a>
+<a href="https://github.com/MohammadWasiq0786/github-profile-trophy/network/members"><img src="https://img.shields.io/github/forks/MohammadWasiq0786/github-profile-trophy"/></a>  
+<a href="https://github.com/MohammadWasiq0786/github-profile-trophy/stargazers"><img src="https://img.shields.io/github/stars/MohammadWasiq0786/github-profile-trophy"/> 
+</a><a href="https://github.com/MohammadWasiq0786/github-profile-trophy/LICENSE"><img src="https://img.shields.io/github/license/MohammadWasiq0786/github-profile-trophy"/></a>
 </p>
