@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Mohammad Wasiq </h1>
+<h1 align="center">Hi 👋, <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Mohammad+Wasiq'/>
+</div>
+ I'm Mohammad Wasiq </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
@@ -78,6 +80,8 @@
 <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/visualstudio_code.svg">
  
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/numpy.svg">](https://numpy.org/) 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/matplotlib2.svg">](https://matplotlib.org/)
