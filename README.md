@@ -1,7 +1,4 @@
-
-<h1 align="center">Hi 👋, <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Mohammad+Wasiq'/>
-</div>
- I'm Mohammad Wasiq </h1>
+<h1 align="center">Hi 👋, I'm Mohammad Wasiq </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
@@ -114,7 +111,7 @@
 
  -----------
  
-## Activity Graph
+<h2 align="center">Activity Graph </h2>
 
 [![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786/github-readme-activity-graph)
 
