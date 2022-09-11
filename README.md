@@ -113,6 +113,6 @@
  
 <h2 align="center">Activity Graph </h2>
 
-[![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786/github-readme-activity-graph)
+[![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786?tab=repositories/github-readme-activity-graph)
 
 ---------
