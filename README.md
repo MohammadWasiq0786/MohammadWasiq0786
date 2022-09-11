@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Wasiq </h1>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Lives-INDIA-success" />
+<img src="https://img.shields.io/badge/Languages-Hindi%20,%20English%20%26%20Urdu-brightgreen" />
+</p>
+
 <h2 align="center">I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science and Bachelor's in Statistics</h2>
 <h2 align="center">Department of Statistics & Operation Research</h2>
 <h2 align="center">Aligarh Muslim University, Aligarh (202002) India</h2>
@@ -8,6 +14,14 @@
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision/Data Science/Data Analysis/Big Data**
 
 - 💬 Ask me about **Statistics, Data Analysis, Data Science, Machine Learning**
+
+- 💻 Check my Projects and other Repositories [HERE.](https://github.com/MohammadWasiq0786?tab=repositories)
+
+-----------
+
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Enthusiast'/>
+</div>
 
 -----------
 
@@ -83,7 +97,8 @@
 
 -----------
 
-<h2 align="center">Boards :</h2>
+<h2 align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Statistics</b></i></h2>
 
 <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="About-Mohammad-Wasiq" /></p>
 
@@ -95,23 +110,8 @@
 
  -----------
  
- <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-<img src="https://img.shields.io/badge/Lives-INDIA-success" />
-<img src="https://img.shields.io/badge/Languages-Hindi%20,%20English%20%26%20Urdu-brightgreen" />
-</p>
-
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Enthusiast'/>
-</div>
-
-- 💻 Check my Projects and other Repositories [HERE.](https://github.com/MohammadWasiq0786?tab=repositories)
-
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-## **Activity Graph** 
-
-<br>
+## Activity Graph
 
 [![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786/github-readme-activity-graph)
+
+---------
