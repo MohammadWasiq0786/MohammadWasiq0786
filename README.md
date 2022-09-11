@@ -95,3 +95,23 @@
 
  -----------
  
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Lives-INDIA-success" />
+<img src="https://img.shields.io/badge/Languages-Hindi%20,%20English%20%26%20Urdu-brightgreen" />
+</p>
+
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Enthusiast'/>
+</div>
+
+- 💻 Check my Projects and other Repositories [HERE.](https://github.com/MohammadWasiq0786?tab=repositories)
+
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+## **Activity Graph** 
+
+<br>
+
+[![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786/github-readme-activity-graph)
