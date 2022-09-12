@@ -124,7 +124,3 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/map.svg">](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
  
 ---------
-
-<a href="https://github.com/MohammadWasiq0786?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" />
-</a>
