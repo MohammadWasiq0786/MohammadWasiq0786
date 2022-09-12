@@ -121,35 +121,6 @@
 
 ---------
 
-- 📫 Location
- 
- - [Location :](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2642%2FPNG%2F512%2Fgoogle_map_location_logo_icon_159350.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fgoogle-map-location-logo%2F159350&tbnid=3IpQg5I1jQuSNM&vet=12ahUKEwjt_eGso476AhWr_jgGHSgJBbIQMygLegUIARCDAg..i&docid=JO1C9-4cOCexIM&w=512&h=512&q=location%20icon&ved=2ahUKEwjt_eGso476AhWr_jgGHSgJBbIQMygLegUIARCDAg)
-
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-19,72],
-              [-19,72],
-              [-19,72],
-              [-19,73],
-              [-19,72]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/map.svg">](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
  
 ---------
