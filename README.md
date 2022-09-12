@@ -120,3 +120,34 @@
 [![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786?tab=repositories/github-readme-activity-graph)
 
 ---------
+
+- 📫 Location
+
+ ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-19,72],
+              [-19,72],
+              [-19,72],
+              [-19,73],
+              [-19,72]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+ 
+---------
