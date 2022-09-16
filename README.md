@@ -12,9 +12,7 @@
 
 ## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Aligarh Muslim University, Aligarh(202002), India](https://www.amu.ac.in/)
 
-- 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision/Data Science/Data Analysis/Big Data**
-
-- 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision/Data Science/Data Analysis/Big Data**
+- 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Cloud Computing/Data Science/Data Analysis/Big Data**
 
 - 💬 Ask me about **Statistics, Data Analysis, Data Science, Machine Learning**
 
