@@ -123,6 +123,6 @@
  
 ---------
 
-<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="center" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshuv&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshuv" /> </p>
+ ``````````
