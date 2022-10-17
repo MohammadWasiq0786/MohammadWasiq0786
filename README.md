@@ -46,8 +46,6 @@
 
 [<img src="https://img.shields.io/github/followers/MohammadWasiq0786?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadWasiq0786" alt="About-Mohammad-Wasiq" /> </p>
-
 -----------
 
 <h2 align="center">Languages and Tools :</h2>
