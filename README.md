@@ -48,7 +48,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadWasiq0786" alt="About-Mohammad-Wasiq" /> </p>
 
-![Profile views](https://github.com/MohammadWasiq0786)
 -----------
 
 <h2 align="center">Languages and Tools :</h2>
