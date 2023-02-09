@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Wasiq </h1>
-
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Mohammad Wasiq </h1>
+<h1 align="center">Hello 👋, This is Mohammad Wasiq </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
