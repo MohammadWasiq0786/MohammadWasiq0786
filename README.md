@@ -128,4 +128,3 @@
 ``````````
 
 ![Snake animation](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/output/github-contribution-grid-snake.svg)
-
