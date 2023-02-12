@@ -126,3 +126,5 @@
 <img align="center" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 ``````````
+
+![Snake animation](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/output/github-contribution-grid-snake.svg)
