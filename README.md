@@ -130,4 +130,4 @@
  
  
  
-![Snake animation](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/contributions.svg)
+![Snake animation](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/github-contribution-grid-snake.svg)
