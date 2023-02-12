@@ -127,12 +127,6 @@
 
  ``````````
 
-<a href=#><img src="https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/contributions.svg"></a>
 
-<p align="center"> 
-Visitor count<br>
-
- <img src="https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/contributions.svg" />
-</p>
  
  
