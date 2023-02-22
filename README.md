@@ -1,9 +1,5 @@
 <h1 align="center">Hello <img width="45" src="waving_hand.gif"> This is Mohammad Wasiq </h1>
 
-<div align="center">
-<h1> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a> This is Mohammad Wasiq
-</h1> 
-
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
 <img src="https://img.shields.io/badge/Lives-INDIA-success" />
