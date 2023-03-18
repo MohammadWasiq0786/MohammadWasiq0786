@@ -1,5 +1,3 @@
-<!-- <img align="right" alt="coding" width="400" src="https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/1675681418944.gif">
-
 ![logo](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/1675681418944.gif)
 
 <h1 align="center">Hello <img width="45" src="waving_hand.gif"> This is Mohammad Wasiq </h1>
