@@ -1,6 +1,6 @@
-<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/1675681418944.gif">
 
-![logo](https://github.com/Abdul-Jaweed/Abdul-Jaweed/blob/main/1675681418944.gif)
+![logo](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/1675681418944.gif)
 
 <h1 align="center">Hello <img width="45" src="waving_hand.gif"> This is Mohammad Wasiq </h1>
 
