@@ -1,3 +1,19 @@
+<!-- ![logo](https://github.com/Abdul-Jaweed/Abdul-Jaweed/blob/main/1666888622607.jpg) -->
+
+![logo](https://github.com/Abdul-Jaweed/Abdul-Jaweed/blob/main/1675681418944.gif)
+
+
+
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+
+
+
+<!-- ![image](https://user-images.githubusercontent.com/114526738/207717375-37cc9690-3bb2-40e7-912a-3adaa358aae9.png) -->
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+
 <h1 align="center">Hello <img width="45" src="waving_hand.gif"> This is Mohammad Wasiq </h1>
 
 <p align="center">
