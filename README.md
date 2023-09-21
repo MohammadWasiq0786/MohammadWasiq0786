@@ -12,11 +12,19 @@
 <img src="https://img.shields.io/badge/Languages-Hindi%20,%20English%20%26%20Urdu-brightgreen" />
 </p>
 
-<h2 align="center">I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science & $\quad \quad \quad$ Bachelor's in Statistics</h2>
+<div style="text-align:center;">
+  <h2><strong>I'm a Data Science and Data Analytics Enthusiast with</strong></h2>
+  <br>
+  <h2><strong>Master's in Data Science & Bachelor's in Statistics</strong></h2>
+</div>
 
-## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)
+<div style="text-align:center;">
+  <h1><a href="https://www.amu.ac.in/department/statistics-and-operations-research"><strong>Department of Statistics & Operation Research</strong></a></h1>
+</div>
 
-## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Aligarh Muslim University, Aligarh(202002), India](https://www.amu.ac.in/)
+<div style="text-align:center;">
+  <h2><a href="https://www.amu.ac.in/"><strong>Aligarh Muslim University, Aligarh(202002), India</strong></a></h2>
+</div>
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Cloud Computing/Data Science/Data Analysis/Big Data**
 
