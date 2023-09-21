@@ -1,5 +1,9 @@
 ![logo](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/1675681418944.gif)
 
+![Wasiq](https://svg-banners.vercel.app/api?type=origin&text1=Mohammad%Wasiq%20&text2=%20Passionate%20%20About%20Data&width=800&height=400)
+
+![Wasiq2](https://svg-banners.vercel.app/api?type=rainbow&text1=MOHAMMAD%20WASIQ%20%F0%9F%8C%88&width=800&height=400)
+
 <h1 align="center">Hello <img width="45" src="waving_hand.gif"> This is Mohammad Wasiq </h1>
 
 <p align="center">
