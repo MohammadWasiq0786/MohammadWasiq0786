@@ -13,7 +13,7 @@
 </p>
 
 <div style="text-align:center;">
-  <h2><strong>I'm a Data Science and Data Analytics Enthusiast with</strong></h2>
+  <h2><strong>I'm a Artificial intelligence & Data Science Enthusiast with</strong></h2>
   <br>
   <h2><strong>Master's in Data Science & Bachelor's in Statistics</strong></h2>
 </div>
