@@ -196,7 +196,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
+<!--
 -----------------------------
 
 <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="About-Mohammad-Wasiq" /></p>
@@ -214,6 +214,7 @@
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadWasiq0786&theme=vue) 
 
 ---------
+-->
 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/map.svg">](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
  
