@@ -37,7 +37,7 @@
 -----------
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=FF0000&center=true&lines=Data+Science+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=FF0000&center=true&lines=Artificial+Intelligence+Enthusiast'/>
 </div>
 
 ## Connect me :
@@ -121,7 +121,7 @@
 
 ![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/MohammadWasiq0786?color=blue&style=for-the-badge&labelColor=cyan)
 
-![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/MohammadWasiq0786?color=blue&style=for-the-badge&labelColor=cyan)
+![CONTRIBUTIONS OF YEAR](https://badges.strrl.dev/contributions/yearly/MohammadWasiq0786?color=blue&style=for-the-badge&labelColor=cyan)
 
 <a href="https://github.com/MohammadWasiq0786">
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=September+03,+2021+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
